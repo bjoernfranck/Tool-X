@@ -7,9 +7,9 @@ Tool-X wurde für Termux und andere Android-Terminals entwickelt, damit du mehr 
 
 <br>
 <p align="center">
-<img width="40%" src="core/toolx.png"/>
-<img width="28.8%" src="core/toolx_cat.png"/>
-<img width="23.4%" src="core/Screenshot_2020-05-17-20-17-56.png"/>
+<img width="40%" src="core/Tool-X.png"/>
+<img width="28.8%" src="core/Tool-X_Cat.png"/>
+<img width="23.4%" src="core/Tool-X_Tools.png"/>
 </p>
 
 ------------------------------------------------------------------------
