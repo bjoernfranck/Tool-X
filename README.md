@@ -1,8 +1,8 @@
 ﻿# Tool-X
 
-[![Build Status](https://img.shields.io/github/forks/SiddheshSurve/Tool-X.svg)](https://github.com/Technical-Sid/Tool-X)
-[![Build Status](https://img.shields.io/github/stars/SiddheshSurve/Tool-X.svg)](https://github.com/Technical-Sid/Tool-X)
-[![License](https://img.shields.io/github/license/SiddheshSurve/Tool-X.svg)](https://github.com/Technical-Sid/Tool-X)
+[![Build Status](https://img.shields.io/github/forks/SiddheshSurve/Tool-X.svg)](https://github.com/bjoernfranck/Tool-X)
+[![Build Status](https://img.shields.io/github/stars/SiddheshSurve/Tool-X.svg)](https://github.com/bjoernfranck/Tool-X)
+[![License](https://img.shields.io/github/license/SiddheshSurve/Tool-X.svg)](https://github.com/bjoernfranck/Tool-X)
 
 ------------------------------------------------------------------------
 
