@@ -1,9 +1,9 @@
 ﻿# Tool-X
 
-### Introduction
+### Beschreibung
 
-*Tool-X is a Kali Linux hacking tools installer for Termux and linux system.*
-Tool-X was developed for Termux and linux based systems. Using Tool-X, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
+*Tool-X ist ein Hacking-Tools-Installer für Kali Linux für Termux und Linux-Systeme.*
+Tool-X wurde für Termux und andere Android-Terminals entwickelt, damit du mehr als 370 Hack-Tools auf Termux (Android) und anderen Linux-basierten Distributionen installieren kannst. Tool-X ist auch für Ubuntu, Debian usw. verfügbar.
 
 <br>
 <p align="center">
@@ -14,18 +14,18 @@ Tool-X was developed for Termux and linux based systems. Using Tool-X, you can i
 
 ------------------------------------------------------------------------
 
-### Operating System Requirements
+### Betriebssystemanforderungen
 
-Tool-X works on any of the following operating systems:<br>
-• **Android** (Using the Termux App) <br>
-• **Linux** (Debian Based Systems) <br>
+Tool-X funktioniert auf einem der folgenden Betriebssysteme:<br>
+• **Android** (unter Verwendung der Termux-App) <br>
+• **Linux** (Debian-basierte Systeme) <br>
 • **Unix**
 
 ------------------------------------------------------------------------
 
-### How to Install
+### Installation
 
-Open the terminal and type following commands.
+Öffne das Terminal und gib die folgenden Befehle ein.
 
 * `apt update`
 
@@ -37,28 +37,34 @@ Open the terminal and type following commands.
 
 * `chmod +x install`
 
-* `sh install` if not work than use `./install`
+* `sh ./install`
 
 ------------------------------------------------------------------------
 
-### How to Use ?
+### Wie wird es verwendet?
 
-Enter a Number for a specific output:
-- (1) : To show all available tools and type the number of a tool which you want to install.
-- (2) : To show tools category.
-- (3) : If you want to update Tool-X.
-- (4) : If you want to know About Us.
-- (x) : To exit the tool.
+Gib eine Nummer für eine spezifische Ausgabe ein:
+- (1): Zeige alle verfügbaren Tools und gib die Nummer eines Tools ein, das du installieren möchtest.
+- (2): Zeige Tools-Kategorien.
+- (3): Wenn du Tool-X aktualisieren möchtest.
+- (4): Wenn du über uns erfahren möchtest.
+- (x): Zum Beenden des Tools.
 
 <br/>
 
-***Now Tool-X is installed successfully. To run Tool-X Type `Tool-X` or `toolx` in your terminal.***
+***Tool-X wurde erfolgreich installiert. Um Tool-X auszuführen, gib `Tool-X` oder `toolx` in deinem Terminal ein.***
 
-Type `Tool-X` or `toolx` from anywhere in your terminal to open Tool-X.
+Gib `Tool-X` oder `toolx`  von überall in deinem Terminal ein, um Tool-X zu öffnen.
 
 ------------------------------------------------------------------------
 
-**Warning**
+**Haftungsausschluss**
 
-We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+Ich möchte darauf hinweisen, dass das Hacken von Computersystemen ohne Zustimmung des Eigentümers illegal und moralisch fragwürdig ist. Hacking-Inhalte und -Tools sollten ausschließlich für legitime Zwecke wie Penetrationstests zur Verbesserung der Cybersicherheit oder zu Schulungszwecken verwendet werden.
+
+Bitt beachte, dass das Herunterladen und Verwenden von Hacking-Inhalten und -Tools auf eigenes Risiko geschieht. Ich übernehme keine Haftung für Schäden oder rechtliche Konsequenzen, die durch die Nutzung dieser Inhalte entstehen können.
+
+Ich möchte betonen, dass es wichtig ist, sich über die geltenden Gesetze und Bestimmungen in Ihrem Land oder Ihrer Region zu informieren und nur mit ausdrücklicher Zustimmung des Eigentümers eines Computersystems auf Hacking-Inhalte und -Tools zuzugreifen.
+### Ich verwende zum Hacken ausschließlich meine eigene Hardware oder habe eine schriftliche Erlaubnis. ###
+### Jegliche illegale Verwendung meiner Materialien wird von mir nicht toleriert oder unterstützt. ###
 
